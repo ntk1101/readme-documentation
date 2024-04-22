@@ -9,10 +9,11 @@ Mundoprints is a website specializes in visiting card printing, where we connect
 
 ## Build instruction
 
-- We start off by signing up for a Wordpress Woocommerce Creator subscription. This will allow us to host and edit the website using elementor editor
+- We start off by signing up for a Wordpress Woocommerce Creator subscription. This will allow us to host and edit the website using elementor editor. We used the Indian-based WP site.
 - We decided to reuse the mundoprints.in interface. We used the Wordpress All-in-one migration to copy the mundoprints.in site to the enw wp site visiting.cards
 - After the migration, we removed all the non-visiting card products and made Visiting Cards page the homepage
 - use the following menu names and links for hompage: [Home](https://mundocards.wpcomstaging.com/), [About](https://mundocards.wpcomstaging.com/about-us/), Contact, [Privacy Policy](https://mundocards.wpcomstaging.com/notice-of-privacy/), [Vendor Login](https://mundocards.wpcomstaging.com/my-account/), [Cart](https://mundocards.wpcomstaging.com/cart/)
+- Razorpay
 - Then Install Dokan Razorpay for payment transaction
 - Integrated Zoho campaign plugins
 
@@ -30,7 +31,8 @@ Mundoprints is a website specializes in visiting card printing, where we connect
 - All-in-one Wordpress Migration
 - WP-Optimized
 - pc-web2print
-- JetPack
+- JetPack (database and protection)
+- 
 
 ## How vendors interact
 
