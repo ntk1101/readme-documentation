@@ -24,12 +24,13 @@ Mundoprints is a website specializes in visiting card printing, where we connect
 
 ## ⛏️ Built With
 
-- Zoho Campaign
+- Zoho Campaign (back-end connection)
 - Yoast SEO
 - Gutenberg
 - All-in-one Wordpress Migration
 - WP-Optimized
 - pc-web2print
+- JetPack
 
 ## How vendors interact
 
